@@ -1,0 +1,6 @@
+git config user.name "KoTik1Tok"
+git config user.email "andrew.nowakowskij2017@yandex.ru"
+git init
+echo "repository2" > README.mb
+git status
+git add README.mb
